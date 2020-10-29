@@ -1,0 +1,9 @@
+
+
+    # this is sample file for learning how to write the text to a file.
+
+    we can write the file with the following options
+
+    * fs.readdir
+    * fs.readFile
+    * fs.writeFile

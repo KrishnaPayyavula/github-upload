@@ -1,0 +1,31 @@
+CRUD operations(Create, Read, Update, Delete): Create a TODO App with appropriate
+validations and store the data in the database(whatever you want). Use any version control
+system like GitHub, GitLab or BitBucket and upload the code.
+Use Cases & Features
+● User should be able to create a task with the following details
+○ Title
+○ Description
+○ Media (Image or Video anyone in a task)
+○ Target Date
+○ Status (Todo, In-progress, Done)
+● User should be able to see the list of Task already created
+○ If there are more than 20 tasks then pagination should be there for the user.
+● User can see the task details
+● User can update the task details from the detail screen
+● Users can remove any task from the available tasks. User should be allowed to remove
+multiple tasks at a time.
+● Users should be able to search the task with the title.
+● User should be able to sort the task based on the Target Date
+Submission Must Have:
+● Frequent commit with proper commit messages
+● Proper DB Modal design
+● Proper naming convention for variables and functions
+● Proper validation whenever you fill it is required
+● Deployed on server and we will be able to run it
+Submission will stand a better chance of selection if:
+● Unit tests are written and code coverage more than 80% (Bounty points if the code
+coverage is >92%)
+● No-SQL Database is used (MongoDB)
+● User can search from Title & Description where results shows in the ascending order of
+the Target Date
+May The Force Be With You!

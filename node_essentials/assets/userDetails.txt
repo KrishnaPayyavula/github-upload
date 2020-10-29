@@ -1,0 +1,26 @@
+{
+    "name": "Krishna",
+    "loc": "Chennai",
+    "mbl": 9676886321,
+    "someMoreText": [{
+            "name": "Krishna",
+            "loc": "Chennai",
+            "mbl": 9676886321
+        },
+        {
+            "name": "Krishna",
+            "loc": "Chennai",
+            "mbl": 9676886321
+        },
+        {
+            "name": "Krishna",
+            "loc": "Chennai",
+            "mbl": 9676886321
+        }
+    ],
+    "someMoreMoreText": {
+        "name": "Krishna",
+        "loc": "Chennai",
+        "mbl": 9676886321
+    }
+}
